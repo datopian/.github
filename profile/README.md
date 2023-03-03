@@ -7,15 +7,9 @@
 Trusted by:
 
 <p align="left">
-  <picture>
-    <img src="https://www.datopian.com/assets/images/The_World_Bank_Group-300x63.png" height="48">
-  </picture>
-  <picture>
-    <img src="https://www.datopian.com/assets/images/data.gov_-300x71.png" height="48">
-  </picture>
-  <picture>
-    <img src="https://www.datopian.com/assets/images/OECD-300x76.png" height="48">
-  </picture>
+  <img src="https://www.datopian.com/assets/images/The_World_Bank_Group-300x63.png" height="48">
+  <img src="https://www.datopian.com/assets/images/data.gov_-300x71.png" height="48">
+  <img src="https://www.datopian.com/assets/images/OECD-300x76.png" height="48">
 </p>
 
 One of our core offerings is a multi-cloud SaaS solution, Data Portal as a Service, which enables us to serve government clients around the world. Our SaaS is built using a range of cutting-edge technologies, including IaC (Terraform), Kubernetes, Helm, Docker, and various managed cloud services such as Blob Storages, SQL services, BigQuery, and ETLs. By prioritizing cloud agnosticism, we ensure flexibility and the ability to leverage the strengths of different providers. We typically deploy on major public cloud providers' data centers, including Google Cloud Platform, Amazon AWS, and Microsoft Azure.
