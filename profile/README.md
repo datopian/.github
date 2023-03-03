@@ -4,6 +4,20 @@
 
 [Datopian](https://datopian.com/) are experts in data management and work with organizations of all sizes to design, develop and scale solutions to unlock their data’s potential.
 
+Trusted by:
+
+<p align="left">
+  <picture>
+    <img src="https://www.datopian.com/assets/images/The_World_Bank_Group-300x63.png" height="48">
+  </picture>
+  <picture>
+    <img src="https://www.datopian.com/assets/images/data.gov_-300x71.png" height="48">
+  </picture>
+  <picture>
+    <img src="https://www.datopian.com/assets/images/OECD-300x76.png" height="48">
+  </picture>
+</p>
+
 One of our core offerings is a multi-cloud SaaS solution, Data Portal as a Service, which enables us to serve government clients around the world. Our SaaS is built using a range of cutting-edge technologies, including IaC (Terraform), Kubernetes, Helm, Docker, and various managed cloud services such as Blob Storages, SQL services, BigQuery, and ETLs. By prioritizing cloud agnosticism, we ensure flexibility and the ability to leverage the strengths of different providers. We typically deploy on major public cloud providers' data centers, including Google Cloud Platform, Amazon AWS, and Microsoft Azure.
 
 Our team has a deep expertise in building data management platforms, using a mature open-source framework with best-of-breed tooling, along with a comprehensive set of associated services, including hosting, integration, and customization.
