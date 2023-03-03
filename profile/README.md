@@ -2,7 +2,7 @@
 
 ### About us
 
-**Datopian** are experts in data management and work with organizations of all sizes to design, develop and scale solutions to unlock their data’s potential.
+[Datopian](https://datopian.com/) are experts in data management and work with organizations of all sizes to design, develop and scale solutions to unlock their data’s potential.
 
 One of our core offerings is a multi-cloud SaaS solution, Data Portal as a Service, which enables us to serve government clients around the world. Our SaaS is built using a range of cutting-edge technologies, including IaC (Terraform), Kubernetes, Helm, Docker, and various managed cloud services such as Blob Storages, SQL services, BigQuery, and ETLs. By prioritizing cloud agnosticism, we ensure flexibility and the ability to leverage the strengths of different providers. We typically deploy on major public cloud providers' data centers, including Google Cloud Platform, Amazon AWS, and Microsoft Azure.
 
@@ -28,19 +28,59 @@ Another area where we excel is in helping governments, companies, and cities pub
 
 ![](https://img.shields.io/badge/JavaScript-language-yellow?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/TypeScript-language-blue?style=for-the-badge&logo=typescript)
-![](https://img.shields.io/badge/tailwind-css-3cf?style=for-the-badge&logo=tailwindcss)
+
 ![](https://img.shields.io/badge/next-framework-black?style=for-the-badge&logo=next.js)
 ![](https://img.shields.io/badge/react-framework-6ef?style=for-the-badge&logo=react)
+
+![](https://img.shields.io/badge/tailwind-css-3cf?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
 
 ![](https://img.shields.io/badge/node-language-brightgreen?style=for-the-badge&logo=node.js)
 ![](https://img.shields.io/badge/python-language-blue?style=for-the-badge&logo=python)
 
+### Data backend
+
+![](https://img.shields.io/badge/Postgresql-database-blue?style=for-the-badge&logo=postgresql)
+
+![](https://img.shields.io/badge/GoogleCloudSQL-database-48f?style=for-the-badge&logo=googlecloud)
+![](https://img.shields.io/badge/RDS-database-fa0?style=for-the-badge&logo=amazonaws)
+
+![](https://img.shields.io/badge/Bigquery-datawarehouse-48f?style=for-the-badge&logo=googlecloud)
+
+![](https://img.shields.io/badge/elastic-search-fd0?style=for-the-badge&logo=elastic)
+![](https://img.shields.io/badge/solr-search-e42?style=for-the-badge&logo=apache)
+![](https://img.shields.io/badge/typesense-search-413?style=for-the-badge)
+
+![](https://img.shields.io/badge/redis-cache-a22?style=for-the-badge&logo=redis)
+
+
+### Blob storage
+
+![](https://img.shields.io/badge/R2-storage-f82?style=for-the-badge&logo=cloudflare)
+![](https://img.shields.io/badge/S3-storage-fa0?style=for-the-badge&logo=amazonaws)
+![](https://img.shields.io/badge/Cloud-storage-48f?style=for-the-badge&logo=googlecloud)
+
+### ETL
+
+![](https://img.shields.io/badge/airflow-workflows-08f?style=for-the-badge&logo=apache)
+![](https://img.shields.io/badge/prefect-workflows-06f?style=for-the-badge&logo=prefect)
+
+### CI/CD
+
+![](https://img.shields.io/badge/actions-cicd-233?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/gitlab-cicd-f72?style=for-the-badge&logo=gitlab)
+
+![](https://img.shields.io/badge/Cloudbuild-cicd-48f?style=for-the-badge&logo=googlecloud)
+![](https://img.shields.io/badge/CodePipeline-cicd-fa0?style=for-the-badge&logo=amazonaws)
+![](https://img.shields.io/badge/Pipelines-cicd-08d?style=for-the-badge&logo=microsoftazure)
+![](https://img.shields.io/badge/CircleCI-cicd-111?style=for-the-badge&logo=circleci)
+
 ### DevOps
 
 ![](https://img.shields.io/badge/terraform-IaC-85c?style=for-the-badge&logo=terraform)
 ![](https://img.shields.io/badge/kubernetes-orchestration-37e?style=for-the-badge&logo=kubernetes)
+![](https://img.shields.io/badge/helm-charts-blue?style=for-the-badge&logo=helm)
 ![](https://img.shields.io/badge/docker-containers-29f?style=for-the-badge&logo=docker)
 
 ### Cloud
