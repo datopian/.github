@@ -18,6 +18,8 @@ Our team has a deep expertise in building data management platforms, using a mat
 
 Another area where we excel is in helping governments, companies, and cities publish data openly. In fact, Datopian built the world's first portals for publishing open data. Whether it's for compliance, transparency, or innovation, we can help you publish your data in a way that meets your specific needs and goals.
 
+Contact us for free 30-minute consultation: https://www.datopian.com/contact
+
 ### Our products and services
 
 * CKAN related services - https://www.datopian.com/ckan
