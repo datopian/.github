@@ -7,9 +7,9 @@
 Trusted by:
 
 <p align="left">
-  <img src="https://www.datopian.com/assets/images/The_World_Bank_Group-300x63.png" height="48">
-  <img src="https://www.datopian.com/assets/images/data.gov_-300x71.png" height="48">
-  <img src="https://www.datopian.com/assets/images/OECD-300x76.png" height="48">
+  <img src="https://www.datopian.com/assets/images/logos/The_World_Bank_Group-300x63.png" height="48">
+  <img src="https://www.datopian.com/assets/images/logos/data.gov_-300x71.png" height="48">
+  <img src="https://www.datopian.com/assets/images/logos/OECD-300x76.png" height="48">
 </p>
 
 One of our core offerings is a multi-cloud SaaS solution, Data Portal as a Service, which enables us to serve government clients around the world. Our SaaS is built using a range of cutting-edge technologies, including IaC (Terraform), Kubernetes, Helm, Docker, and various managed cloud services such as Blob Storages, SQL services, BigQuery, and ETLs. By prioritizing cloud agnosticism, we ensure flexibility and the ability to leverage the strengths of different providers. We typically deploy on major public cloud providers' data centers, including Google Cloud Platform, Amazon AWS, and Microsoft Azure.
@@ -22,10 +22,17 @@ Contact us for free 30-minute consultation: https://www.datopian.com/contact
 
 ### Our products and services
 
-* CKAN related services - https://www.datopian.com/ckan
+* PortalJS - https://portaljs.org/
+* CKAN related services - https://www.datopian.com/solutions/ckan
+* Open Data Portals - https://www.datopian.com/solutions/open-data-portals
+
+Other projects:
+
+* Flowershow - https://flowershow.app/
 * DataHub - https://datahub.io/
 * Frictionless Data - https://frictionlessdata.io/
-* Data Catalogs - https://www.datopian.com/data-catalogs
+* Giftless - https://giftless.datopian.com/en/latest/
+* MarkdownDB - https://github.com/datopian/markdowndb
 
 ### Materials
 
