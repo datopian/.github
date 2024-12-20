@@ -22,7 +22,7 @@ Contact us for free 30-minute consultation: https://www.datopian.com/contact
 
 ### Our products and services
 
-* PortalJS - https://portaljs.org/
+* PortalJS - https://portaljs.com/
 * CKAN related services - https://www.datopian.com/solutions/ckan
 * Open Data Portals - https://www.datopian.com/solutions/open-data-portals
 
